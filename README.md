@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my professional outlets<br>👯 I’m looking to collaborate on hardware-focused projects<br>🤝 I’m looking for help with internship opportunities & classes<br>🌱 I’m currently learning Machine Learning & Discrete Structures
+🔭 I’m currently working on my professional profiles! <br>👯 I’m looking to collaborate on hardware-focused projects<br>🤝 I’m looking for help with internship opportunities & classes<br>🌱 I’m currently learning Machine Learning & Discrete Structures
 
 
 ## 🌐 Socials:
