@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m building my professional profiles and preparing for Sophomorr year! <br>👯 I’m looking to collaborate on hardware-focused projects<br>🤝 I’m looking for help with internship opportunities & classes<br>🌱 I’m currently learning Machine Learning, Discrete Structures, and E&M
+🔭 I’m building my professional profiles and preparing for Sophomore year! <br>👯 I’m looking to collaborate on hardware-focused projects<br>🤝 I’m looking for help with internship opportunities & classes<br>🌱 I’m currently learning Machine Learning, Discrete Structures, and E&M
 
 
 ## 🌐 Contact Methods:
