@@ -15,9 +15,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rtalusan13&icon=3&color=8)](https://visitcount.itsvg.in)
 
-## Completed Repositories
+## ✅ Completed Repositories:
 
-[minmaxalgo] (link) - description
+[minmaxalgo] (https://github.com/rtalusan13/minmaxalgo)
+- description
 
-[ML_Columbia] (link) - description
+[ML_Columbia] (https://github.com/rtalusan13/ML_Columbia)
+- description
+
+## ⚙️ In Progress:
+
+[digtwin] (https://github.com/rtalusan13/digtwin)
+- description
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
