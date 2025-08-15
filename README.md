@@ -17,20 +17,20 @@
 
 ## ✅ Completed Repositories:
 
-[minmaxalgo](https://github.com/rtalusan13/minmaxalgo) - Python
+[minmaxalgo](https://github.com/rtalusan13/minmaxalgo) - **Python**
 - description
 
-[ML_Columbia](https://github.com/rtalusan13/ML_Columbia) - Python / Jupyter Notebook
+[ML_Columbia](https://github.com/rtalusan13/ML_Columbia) - **Python / Jupyter Notebook**
 - description
 
 ## ⚙️ In Progress:
 
-[digtwin](https://github.com/rtalusan13/digtwin) -  HTML/CSS, JavaScript
+[digtwin](https://github.com/rtalusan13/digtwin) -  **HTML/CSS, JavaScript**
 - description
 
-[MyGoatList] - HTML/CSS
+[MyGoatList] - **HTML/CSS**
 - description
 
-[Giga] - React, Supabase
+[Giga] - **React, Supabase**
 - description
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
