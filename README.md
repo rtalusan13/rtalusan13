@@ -17,6 +17,7 @@
 
 ## Completed Repositories
 
-minmaxalgo
-ML_Columbia
+[minmaxalgo] (link) - description
+
+[ML_Columbia] (link) - description
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
