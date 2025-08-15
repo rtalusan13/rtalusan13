@@ -17,15 +17,15 @@
 
 ## ✅ Completed Repositories:
 
-[minmaxalgo] (https://github.com/rtalusan13/minmaxalgo)
+[minmaxalgo](https://github.com/rtalusan13/minmaxalgo)
 - description
 
-[ML_Columbia] (https://github.com/rtalusan13/ML_Columbia)
+[ML_Columbia](https://github.com/rtalusan13/ML_Columbia)
 - description
 
 ## ⚙️ In Progress:
 
-[digtwin] (https://github.com/rtalusan13/digtwin)
+[digtwin](https://github.com/rtalusan13/digtwin)
 - description
 
 [MyGoatList]
