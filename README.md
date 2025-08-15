@@ -23,6 +23,11 @@
 [ML_Columbia](https://github.com/rtalusan13/ML_Columbia) - **Python / Jupyter Notebook**
 - description
 
+ece120 (private) - **C, Assembly (LC-3), ADALM2000**
+- Private repository of my personal labs completed from UIUC's ECE120 course - Intro to Computing
+- Focused on two-level logic, circuit design, and binary structures in computing
+- 13 Hardware & Software labs; willing to share per request as proof of my work
+
 # ⚙️ In Progress:
 
 [digtwin](https://github.com/rtalusan13/digtwin) -  **HTML/CSS, JavaScript**
@@ -31,9 +36,9 @@
 [ArduinoProjects](https://github.com/rtalusan13/ArduinoProjects) -  **C/C++, Arduino UNO Microcontroller + IDE**
 - description
 
-[MyGoatList] - **HTML/CSS**
+MyGoatList (private) - **HTML/CSS**
 - description
 
-[Giga] - **React, Supabase**
+Giga (private) - **React, Supabase**
 - description
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
