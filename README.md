@@ -15,4 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rtalusan13&icon=3&color=8)](https://visitcount.itsvg.in)
 
+## Completed Repositories
+
+minmaxalgo
+ML_Columbia
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
