@@ -27,4 +27,10 @@
 
 [digtwin] (https://github.com/rtalusan13/digtwin)
 - description
+
+[MyGoatList]
+- description
+
+[Giga]
+- description
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
