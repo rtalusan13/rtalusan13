@@ -31,7 +31,8 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL)**
 # ⚙️ In Progress:
 
 [digtwin](https://github.com/rtalusan13/digtwin) -  **HTML/CSS, JavaScript**
-- description
+- Beginner project focused on local storage and front-end concepts like widgets, containers, and meta tags
+- Inspired by Cookie Clicker, it features offline time tracking, webhooks, and a clean, accessible codebase for update logs, reward codes, and expansions
 
 [ArduinoProjects](https://github.com/rtalusan13/ArduinoProjects) -  **C/C++, Arduino UNO Microcontroller + IDE**
 - description
