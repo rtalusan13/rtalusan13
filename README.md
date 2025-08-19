@@ -18,7 +18,8 @@
 # ✅ Completed Repositories:
 
 [minmaxalgo](https://github.com/rtalusan13/minmaxalgo) - **Python**
-- description
+- Includes a min/max Connect 4 Solver that determines the number of future moves required to complete a game
+- LUNARPlayer is a connected user that was built during Intersession 2024
 
 [ML_Columbia](https://github.com/rtalusan13/ML_Columbia) - **Python / Jupyter Notebook**
 - description
