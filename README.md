@@ -18,7 +18,8 @@
 # ✅ Completed Repositories:
 
 [ArduinoProjects](https://github.com/rtalusan13/ArduinoProjects) -  **C/C++, Arduino UNO Microcontroller + IDE**
-- description
+- Built programs for circuits utilizing ultrasonic, temperature/humidity, gyroscopic, and various other Arduino sensors.
+- Circuit design is available for most projects (.HEIC/.PNG), as well as my implementation (.ino)
 
 [minmaxalgo](https://github.com/rtalusan13/minmaxalgo) - **Python**
 - Includes a min/max Connect 4 Solver that determines the number of future moves required to complete a game
@@ -41,8 +42,9 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL)**
 - [Click here to play!](https://rtalusan13.github.io/digtwin/)
 
 MyGoatList (private) - **HTML/CSS**
-- description
+- Creating a better way for users worldwide to construct and share their rankings for NBA players
+- Scaling to a social sports debate app with more designation than other platforms like Reddit, Real, or other social media giants
 
 Giga (private) - **React, Supabase**
-- description
+- Streamlining finding bandmates, sharing music snippets, and auditioning/booking gigs in a localized or personalized manner
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
