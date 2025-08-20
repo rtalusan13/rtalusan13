@@ -17,6 +17,9 @@
 
 # ✅ Completed Repositories:
 
+[ArduinoProjects](https://github.com/rtalusan13/ArduinoProjects) -  **C/C++, Arduino UNO Microcontroller + IDE**
+- description
+
 [minmaxalgo](https://github.com/rtalusan13/minmaxalgo) - **Python**
 - Includes a min/max Connect 4 Solver that determines the number of future moves required to complete a game
 - LUNARPlayer is a connected user that was built during Intersession 2024
@@ -35,9 +38,7 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL)**
 [digtwin](https://github.com/rtalusan13/digtwin) -  **HTML/CSS, JavaScript**
 - Beginner project focused on local storage and front-end concepts like widgets, containers, and meta tags
 - Inspired by Cookie Clicker, it features offline time tracking, webhooks, and a clean, accessible codebase for update logs, reward codes, and expansions
-
-[ArduinoProjects](https://github.com/rtalusan13/ArduinoProjects) -  **C/C++, Arduino UNO Microcontroller + IDE**
-- description
+- [Webpage]([https://www.google.com](https://rtalusan13.github.io/digtwin/))
 
 MyGoatList (private) - **HTML/CSS**
 - description
