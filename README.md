@@ -42,7 +42,8 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL)**
 - [Click here to play!](https://rtalusan13.github.io/digtwin/)
 
 imsaOOP - **Java (Object-Oriented Programming**
-- 1
+- Public repository of my works in Object-Oriented Programming
+- Made in 2023 through the BlueJ IDE
 
 MyGoatList (private) - **HTML/CSS**
 - Creating a better way for users worldwide to construct and share their rankings for NBA players
