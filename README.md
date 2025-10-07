@@ -41,7 +41,7 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL)**
 - Inspired by Cookie Clicker, it features offline time tracking, webhooks, and a clean, accessible codebase for update logs, reward codes, and expansions
 - [Click here to play!](https://rtalusan13.github.io/digtwin/)
 
-imsaOOP - **Java (Object-Oriented Programming)**
+[imsaOOP](https://github.com/rtalusan13/imsaOOP) - **Java (Object-Oriented Programming)**
 - Public repository of my works in Object-Oriented Programming
 - Made in 2023 through the BlueJ IDE
 
