@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m building my professional profiles and preparing for Sophomore year! <br>👯 I’m looking to collaborate on hardware-focused projects or startup apps<br>🤝 I’m looking for help with internship opportunities & classes<br>🌱 I’m currently learning Machine Learning, Discrete Structures, E&M, and various AWS courses
+🔭 I’m building my professional profiles and preparing for Sophomore year! <br>👯 I’m looking to collaborate on hardware-focused projects or startup apps<br>🤝 I’m looking for help with internship opportunities & classes<br>🌱 I’m currently learning Computer Systems & Programming, Analog Signal Processing, Quantum Physics, and Thermal Physics.
 
 
 ## 🌐 Contact Methods:
