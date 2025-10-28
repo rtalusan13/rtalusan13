@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m building my professional profiles and preparing for my future in ECE! <br>👯 I’m looking to collaborate on hardware-focused projects and startup apps/projects<br>🤝 I’m looking for help with internship opportunities & classes<br>🌱 I’m currently learning Computer Systems & Programming, Analog Signal Processing, Quantum Physics, and Thermal Physics.
+🔭 I’m building my professional profiles and preparing for my future in ECE! <br>👯 I’m looking to collaborate on hardware-focused projects and startup apps/projects<br>🤝 I’m looking for internship opportunities & help with classes<br>🌱 I’m currently learning Computer Systems & Programming, Analog Signal Processing, Quantum Physics, and Thermal Physics.
 
 
 ## 🌐 Contact Methods:
