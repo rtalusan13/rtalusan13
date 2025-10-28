@@ -45,7 +45,7 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL)**
 - Public repository of my works in Object-Oriented Programming
 - Made in 2023 through the BlueJ IDE
 
-MyGoatList (private) - **HTML/CSS**
+MyGoatList (private) - **HTML/CSS, Backend TBD**
 - Creating a better way for users worldwide to construct and share their rankings for NBA players
 - Scaling to a social sports debate app with more designation than other platforms like Reddit, Real, or other social media giants
 
