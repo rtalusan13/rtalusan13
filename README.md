@@ -51,4 +51,5 @@ MyGoatList (private) - **HTML/CSS, Backend TBD**
 
 Giga (private) - **React, Supabase**
 - Streamlining finding bandmates, sharing music snippets, and auditioning/booking gigs in a localized or personalized manner
+- In development
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
