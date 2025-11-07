@@ -27,7 +27,7 @@
 
 [ML_Columbia](https://github.com/rtalusan13/ML_Columbia) - **Python / Jupyter Notebook**
 - Utilizing Jupyter Notebooks and Open-Source datasets (UC Irvine) to analyze data and detect patterns
-- Regression, Classification, and a focus on Machine Learning Mathematics
+- Regression, Classification, and a focus on fundamental Machine Learning Mathematics
 
 ece120 (private) - **C, Assembly (LC-3), Vivado (RTL)**
 - Private repository of my personal labs completed from UIUC's ECE120 course - Intro to Computing
