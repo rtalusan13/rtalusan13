@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m building my professional profiles and preparing for my future in UIUC ECE! <br>👯 I’m looking to collaborate/join hardware-focused projects and startup ideas<br>🤝 I’m looking for internship opportunities & help with classes!<br>🌱 I’m currently learning Computer Systems & Programming, Analog Signal Processing, and Thermal Physics.
+🔭 I’m building my professional profiles and preparing for my future in UIUC ECE! <br>👯 I’m looking to collaborate/join hardware-focused projects and startup ideas<br>🤝 I’m looking for internship opportunities & help with classes!<br>🌱 I’m currently learning Computer Systems & Programming, Analog Signal Processing, and Thermal Physics. <br> Next semester, I will be studying Data Structures & Algorithms, Probability Theory, and SystemVerilog/FPGA Design.
 
 
 ## 🌐 Contact Methods:
