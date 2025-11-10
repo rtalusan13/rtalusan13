@@ -49,8 +49,4 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL)**
 MyGoatList (private) - **HTML/CSS, Backend TBD**
 - Creating a better way for users worldwide to construct and share their rankings for NBA players
 - Scaling to a social sports debate app with more designation than other platforms like Reddit, Real, or other social media giants
-
-Giga (private) - **React, Backend TBD**
-- Streamlining finding bandmates, sharing music snippets, and auditioning/booking gigs in a localized or personalized manner
-- In development
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
