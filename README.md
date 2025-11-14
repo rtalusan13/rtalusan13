@@ -29,7 +29,7 @@
 - Utilizing Jupyter Notebooks and Open-Source datasets (UC Irvine) to analyze data and detect patterns
 - Regression, Classification, and a focus on fundamental Machine Learning Mathematics
 
-ece120 (private) - **C, Assembly (LC-3), Vivado (RTL)**
+ece120 (private) - **C, Assembly (LC-3), Vivado (RTL), IC Design**
 - Private repository of my personal labs completed from UIUC's ECE120 course - Intro to Computing
 - Focused on two-level logic, circuit design, and binary structures in computing
 - 13 Hardware & Software labs; willing to share per request as proof of my work
