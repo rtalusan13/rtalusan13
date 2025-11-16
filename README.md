@@ -38,7 +38,7 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL), IC Design**
 
 [digtwin](https://github.com/rtalusan13/digtwin) -  **HTML/CSS, JavaScript**
 - Beginner project focused on local storage and front-end concepts like widgets, containers, and meta tags
-- Inspired by Cookie Clicker, it features offline time tracking, webhooks, and a clean, accessible codebase for update logs, reward codes, and expansions
+- Inspired by Cookie Clicker, it features offline time tracking, webhooks, and a clean, accessible codebase for update logs and reward codes
 - [Click here to play!](https://rtalusan13.github.io/digtwin/)
 
 [imsaOOP](https://github.com/rtalusan13/imsaOOP) - **Java (Object-Oriented Programming)**
