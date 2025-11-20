@@ -44,7 +44,7 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL), IC Design**
 [imsaOOP](https://github.com/rtalusan13/imsaOOP) - **Java (Object-Oriented Programming)**
 - Public repository of my works in Object-Oriented Programming
 - Made in 2023 through the BlueJ IDE, uploading as I retrieve files
-- Builds upon the foundations of classes, objects, and the 4 pillars of OOP
+- Builds upon the foundations of classes, objects, and the pillars of OOP
 
 MyGoatList (private) - **HTML/CSS, Backend TBD**
 - Creating a better way for users worldwide to construct and share their rankings for NBA players
