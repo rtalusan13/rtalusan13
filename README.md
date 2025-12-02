@@ -29,6 +29,11 @@
 - Utilizing Jupyter Notebooks and Open-Source datasets (UC Irvine) to analyze data and detect patterns
 - Regression, Classification, and a focus on fundamental Machine Learning Mathematics
 
+[imsaOOP](https://github.com/rtalusan13/imsaOOP) - **Java (Object-Oriented Programming)**
+- Public repository of my works in Object-Oriented Programming
+- Made in 2023 through the BlueJ IDE, uploading as I retrieve files
+- Builds upon the foundations of classes, objects, and the pillars of OOP
+
 ece120 (private) - **C, Assembly (LC-3), Vivado (RTL), IC Design**
 - Private repository of my personal labs completed from UIUC's ECE120 course - Intro to Computing
 - Focused on two-level logic, circuit design, and CPU implementation and applications
@@ -40,11 +45,6 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL), IC Design**
 - Beginner project focused on local storage and front-end concepts like widgets, containers, and meta tags
 - Inspired by Cookie Clicker, it features offline time tracking, webhooks, and a clean, accessible codebase for update logs and reward codes
 - [Click here to play!](https://rtalusan13.github.io/digtwin/)
-
-[imsaOOP](https://github.com/rtalusan13/imsaOOP) - **Java (Object-Oriented Programming)**
-- Public repository of my works in Object-Oriented Programming
-- Made in 2023 through the BlueJ IDE, uploading as I retrieve files
-- Builds upon the foundations of classes, objects, and the pillars of OOP
 
 MyGoatList (private) - **HTML/CSS, Backend TBD**
 - Creating a better way for users worldwide to construct and share their rankings for NBA players
