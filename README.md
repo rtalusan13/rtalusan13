@@ -41,6 +41,8 @@ ece120 (private) - **C, Assembly (LC-3), Vivado (RTL), IC Design**
 
 # ⚙️ In Progress:
 
+[leetcode_sols](https://github.com/rtalusan13/leetcode_sols)
+
 [digtwin](https://github.com/rtalusan13/digtwin) -  **HTML/CSS, JavaScript**
 - Beginner project focused on local storage and front-end concepts like widgets, containers, and meta tags
 - Inspired by Cookie Clicker, it features offline time tracking, webhooks, and a clean, accessible codebase for update logs and reward codes
