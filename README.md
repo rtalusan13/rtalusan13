@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m building my professional profiles, searching for internships, and preparing for my future in UIUC ECE! <br>👯 I’m looking to collaborate/join hardware-focused projects and startup ideas<br>🌱 I’m currently learning  Data Structures & Algorithms, Probability Theory, and SystemVerilog/FPGA Design. I hope to continue developing my own projects during this time as well!
-
-
 ## 🌐 Contact Methods:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphael-talusan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rtalu@illinois.edu) 
 
