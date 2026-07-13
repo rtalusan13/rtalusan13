@@ -39,7 +39,7 @@ ece220 (private) - **Assembly (LC-3), C, C++, Parallel Computing**
 
 # ⚙️ In Progress:
 
-[leetcode_sols](https://github.com/rtalusan13/leetcode_sols) - **C, C++, Python**
+[leetcode_sols](https://github.com/rtalusan13/leetcode_sols) - **C, C++, Python, etc.**
 
 [digtwin](https://github.com/rtalusan13/digtwin) -  **HTML/CSS, JavaScript**
 - Beginner project focused on local storage and front-end concepts like widgets, containers, and meta tags
