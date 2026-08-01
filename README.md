@@ -13,8 +13,12 @@
 
 # ✅ Completed Repositories:
 
+[SoLoGUI](https://github.com/rtalusan13/SoLoGUI) - **MATLAB-native GUI**
+- Presented at UIUC's Undergrad Research Symposium 2026.
+- Developed @ UIUC's Gritton Lab, conducted under Lauren Mitchell, Oliver Qu, & Dr. Howard Gritton
+
 [ArduinoProjects](https://github.com/rtalusan13/ArduinoProjects) -  **C/C++, Arduino UNO Microcontroller + IDE**
-- Built programs for circuits utilizing ultrasonic, temperature/humidity, gyroscopic, and various other Arduino sensors.
+- Built programs for circuits utilizing ultrasonic, temperature/humidity, gyroscopic, and various other Arduino sensors
 - Circuit design is available for most projects (.HEIC/.PNG), as well as my implementation (.ino)
 
 [minmaxalgo](https://github.com/rtalusan13/minmaxalgo) - **Python**
@@ -30,12 +34,6 @@
 - Made in 2023 through the BlueJ IDE, uploading as I retrieve files
 - Builds upon the foundations of classes, objects, and the pillars of OOP
 
-ece120 (private) - **C, Assembly (LC-3), Vivado (RTL), IC Design**
-- Private repository of my personal labs completed from UIUC's ECE120 course - Intro to Computing
-- Focused on two-level logic, circuit design, and CPU implementation and applications
-- Have since become an Undergraduate TA for this class
-
-ece220 (private) - **Assembly (LC-3), C, C++, Parallel Computing**
 
 # ⚙️ In Progress:
 
