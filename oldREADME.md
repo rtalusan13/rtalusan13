@@ -8,8 +8,8 @@
 ![](https://streak-stats.demolab.com/?user=rtalusan13&theme=ocean_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rtalusan13&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=rtalusan13&icon=3&color=0)](https://visitcount.itsvg.in)
+<!--
+[![](https://komarev.com/ghpvc/?username=rtalusan13&icon=3&color=0)](https://visitcount.itsvg.in) -->
 
 # ✅ Completed Repositories:
 
