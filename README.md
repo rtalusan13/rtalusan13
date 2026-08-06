@@ -11,6 +11,8 @@
 
 # ✅ Completed Repositories:
 
+Two-Player Retro Game Suite
+
 [SoLoGUI](https://github.com/rtalusan13/SoLoGUI) - **MATLAB-native GUI**
 - Presented at UIUC's Undergrad Research Symposium 2026.
 - Developed @ UIUC's Gritton Lab, conducted under Lauren Mitchell, Oliver Qu, & Dr. Howard Gritton
