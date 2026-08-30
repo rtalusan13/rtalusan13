@@ -14,7 +14,7 @@
 Two-Player Retro Game Suite - Vivado
 
 [SoLoGUI](https://github.com/rtalusan13/SoLoGUI) - **MATLAB-native GUI**
-- Presented at UIUC's Undergrad Research Symposium 2026.
+- Presented at UIUC's Undergrad Research Symposium 2026 - Session 4C.
 - Developed @ UIUC's Gritton Lab, conducted under Lauren Mitchell, Oliver Qu, & Dr. Howard Gritton
 
 [ArduinoProjects](https://github.com/rtalusan13/ArduinoProjects) -  **C/C++, Arduino UNO Microcontroller + IDE**
