@@ -11,7 +11,7 @@
 
 # ✅ Completed Repositories:
 
-Two-Player Retro Game Suite - Vivado
+Two-Player Retro Game Suite - Vivado, Vitis
 
 [SoLoGUI](https://github.com/rtalusan13/SoLoGUI) - **MATLAB-native GUI**
 - Presented at UIUC's Undergrad Research Symposium 2026 - Session 4C.
