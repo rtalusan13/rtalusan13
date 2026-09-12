@@ -13,6 +13,7 @@
 
 Two-Player Retro Game Suite - Vivado, Vitis
 - UIUC ECE 385 Final Project
+- Spartan 7 Board
 
 [SoLoGUI](https://github.com/rtalusan13/SoLoGUI) - **MATLAB-native GUI**
 - Presented at UIUC's Undergrad Research Symposium 2026 - Session 4C.
