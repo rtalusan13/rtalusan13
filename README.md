@@ -6,7 +6,7 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rtalusan13&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-# ✅ Completed Repositories:
+## ✅ Completed Repositories:
 
 Two-Player Retro Game Suite - Vivado, Vitis
 - UIUC ECE 385 Final Project
